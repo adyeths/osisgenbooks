@@ -1,0 +1,648 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osis xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd">
+    <osisText osisRefWork="GenBook" xml:lang="en" osisIDWork="PrayersMiddleAges">
+        <header>
+            <revisionDesc resp="Adyeths">
+                <date>2022.09.17</date>
+                <p>Converted from source.</p>
+            </revisionDesc>
+            <work osisWork="PrayersMiddleAges">
+                <title>Prayers of the Middle Ages</title>
+                <creator role="aut">J. Manning Potts</creator>
+                <source>https://gutenberg.org/ebooks/48242</source>
+                <rights type="x-copyright">Public Domain</rights>
+            </work>
+            <work osisWork="Bible">
+                <refSystem>Bible</refSystem>
+            </work>
+        </header>
+        <div type="titlePage" osisID="Title Page">
+            <title level="1" type="main"/>
+            <!-- div class="aligncenter" -->
+            <p>
+                <hi type="bold">PRAYERS<lb/> of the<lb/> MIDDLE AGES</hi>
+            </p>
+            <p>
+                <hi type="bold">Light from a Thousand Years</hi>
+            </p>
+            <p>Edited by<lb/> J. MANNING POTTS</p>
+            <milestone type="line"/>
+            <p>THE UPPER ROOM</p>
+            <p>The World’s Most Widely Used Devotional Guide<lb/> 1908 Grand Avenue<lb/> Nashville 5, Tennessee</p>
+            <!-- div end -->
+        </div>
+        <div type="x-copyright" osisID="Copyright">
+            <title level="1" ID="section-1" type="main"/>
+            <!-- div class="aligncenter" -->
+            <p>Second Printing</p>
+            <p>© Copyright, 1954<lb/> by<lb/> The Upper Room<lb/> Nashville, Tennessee</p>
+            <p>UR-79-25-5-0962<lb/> Printed in the United States of America</p>
+            <!-- div end -->
+        </div>
+        <div type="chapter" osisID="Preface">
+            <title level="1" type="main">Preface</title>
+            <p>This is a companion volume to the Prayers of the Early Church. That little volume has been started on its way and the editor has been encouraged to do this one on the Prayers of the Middle Ages.</p>
+            <p>The period covered by these prayers is that of a thousand years from A.D. 500 to A.D. 1500. Generally speaking, the period is from the fall of Rome to the Reformation. This period was formerly called the Dark Ages. Evidence of the lack of light has been found in the lack of material in some of the centuries. It has been hard to find any prayers in a few. However, taken collectively, it is seen that there was much light that came out of these ages. The Church was kept alive by those who kept the light burning. The latter half of this period is now called the Golden Age of Mysticism.</p>
+            <p>The arrangement of the prayers is century by century. There are some questions about dates of these as well as authorship. The authorities do not always agree.</p>
+            <p>We are indebted to many collections of prayers and to other sources. Some of the books which have been most valuable are Prayers of the Ages, compiled by Caroline S. Whitmarsh; Of the Imitation of Christ; Great Souls at Prayer, arranged by Mrs. Mary W. Tileston; The Cloud of Witness, by Hon. Mrs. Gell; Prayers, from the collection of the late Baron Bunsen; A Chain of Prayer Across the Ages, compiled by Selina Fitzherbert Fox; Prayers We Love to Pray, arranged by Edward Leigh Pell; Morning Readings, compiled by Frank M. Rich; Prayers of the Saints, by Cecil Headlam; Prayers Ancient and Modern, compiled by Mary Wilder Tileston; Ancient Collects, by Rev. William Bright; Prayers, Massachusetts Council of the Church Service League; Theologia Germanica; The Cloud of Unknowing; His Words of Admonition and Praises of God, by St. Francis of Assisi; Common Prayers for Family Use, by Westcott.</p>
+            <p>The main purpose of this little volume is for individual and family devotions. However, it is found that prayers like these are read in worship services, in prayer cells, and prayer meetings. Young people’s and women’s groups constantly make use of them. This little book is recommended for all types of worship services and for use in church bulletins. Many other ways will be found to use them.</p>
+            <p>The editor wishes to acknowledge his deep debt of gratitude to the late lamented Dr. J. Minton Batten, professor of church history in Vanderbilt University, and to Miss Clarice Winstead, secretary to the editor, for their invaluable service in compiling this book of prayers.</p>
+            <p>J. Manning Potts</p>
+            <p>Editor, The Upper Room</p>
+            <p>Nashville, Tennessee</p>
+        </div>
+        <div type="chapter" osisID="SIXTH CENTURY PRAYERS">
+            <title level="1" ID="sixth-century-prayers" type="main">SIXTH CENTURY PRAYERS</title>
+            <title level="2" ID="for-forgiveness" type="main">For Forgiveness</title>
+            <p>O God, whose nature and property is ever to have mercy and to forgive, receive our humble petitions; and though we be tied and bound with the chain of our sins, yet let the pitifulness of Thy great mercy loose us; for the honour of Jesus Christ, our Mediator, and Advocate. Amen.</p>
+            <p>—Gregory the Great</p>
+            <title level="2" ID="for-easter-sunday-giving" type="main">For Easter Sunday Giving</title>
+            <p>O God, who for our redemption didst give Thine only begotten Son to the death of the Cross, and by His glorious resurrection hast delivered us from the power of the enemy, grant us to die daily to sin, that we may evermore live with Him, in the joy of His resurrection; through the same Jesus Christ our Lord. Amen.</p>
+            <p>—Gregory the Great</p>
+            <title level="2" ID="for-mercy" type="main">For Mercy</title>
+            <p>O God, the Protector of all that trust in Thee, without whom nothing is strong, nothing is holy, increase and multiply upon us Thy mercy; that, Thou being our Ruler and Guide, we may so pass through things temporal that we finally lose not the things eternal. Grant this, O heavenly Father, for Jesus Christ’s sake our Lord. Amen.</p>
+            <p>—Gregorian Sacramentary</p>
+            <title level="2" ID="collect" type="main">Collect</title>
+            <p>Almighty God, unto whom all hearts are open, all desires known, and from whom no secrets are hid; cleanse the thoughts of our hearts by the inspiration of Thy Holy Spirit, that we may perfectly love Thee, and worthily magnify Thy holy Name, through Jesus Christ our Lord. Amen.</p>
+            <p>—Gregorian Sacramentary</p>
+            <title level="2" ID="for-grace-and-power" type="main">For Grace and Power</title>
+            <p>O Lord, we beseech Thee mercifully to receive the prayers of Thy people who call upon Thee; and grant that they may both perceive and know what things they ought to do, and also may have grace and power faithfully to fulfill the same; through Jesus Christ our Lord. Amen.</p>
+            <p>—Gregorian Sacramentary</p>
+            <title level="2" ID="for-the-world" type="main">For the World</title>
+            <p>Almighty and everlasting God, the Brightness of faithful souls, fill the world with Thy glory, we pray Thee, and show Thyself, by the radiance of Thy light, to all the nations of the world, through Jesus Christ, our Lord. Amen.</p>
+            <p>—Gregorian Sacramentary</p>
+            <title level="2" ID="for-morning" type="main">For Morning</title>
+            <p>Almighty God who seest that we have no power of ourselves to help ourselves; keep us both outwardly in our bodies, and inwardly in our souls; that we may be defended from all adversities which may happen to the body, and from all evil thoughts which may assault and hurt the soul; through Jesus Christ our Lord. Amen.</p>
+            <p>—Gregorian Sacramentary</p>
+            <title level="2" ID="a-litany-for-strength-against-sin" type="main">A Litany for Strength Against Sin</title>
+            <p>O God, who didst wonderfully create and more wonderfully redeem mankind, grant us with steadfast mind to resist the allurements of sin that we may attain to the joys of everlasting life.</p>
+            <p>We beseech Thee to hear us, O Lord. Amen.</p>
+            <p>—Gregorian Sacramentary</p>
+            <title level="2" ID="for-bishops-and-pastors" type="main">For Bishops and Pastors</title>
+            <p>O God, who rulest over Thy people with fatherly love, give the spirit of wisdom to all who have received from Thee authority of government, that the welfare of Thy people may turn to the everlasting joy of their pastors, through Jesus Christ our Lord. Amen.</p>
+            <p>—Gregorian Sacramentary</p>
+            <title level="2" ID="for-the-defense-of-christs-church" type="main">For the Defense of Christ’s Church</title>
+            <p>O Lord, we beseech Thee to keep Thy Church and household continually in Thy true religion, that they who do lean only upon the hope of Thy heavenly grace may evermore be defended by Thy mighty power; through Jesus Christ our Lord. Amen.</p>
+            <p>—Gregorian Sacramentary</p>
+            <title level="2" ID="for-forgiveness-and-deliverance" type="main">For Forgiveness and Deliverance</title>
+            <p>O Christ, our Creator and Redeemer, Almighty Lord God, forgive the sins of all who are joined to us by friendship and relationship, all for whom we are desired to pray, or have resolved to pray, and all Thy faithful people. Deliver us all from evil, preserve us in all good, and bring us at last to everlasting joy; for Thine honour and glory. Amen.</p>
+            <p>—Gregorian Sacramentary</p>
+            <title level="2" ID="for-all-in-special-need-of-protection" type="main">For All in Special Need of Protection</title>
+            <p>O God, who willest not the death of a sinner, protect with Thy heavenly aid those persons who may now be exposed to special temptations; and grant that in the fulfilment of Thy commandments they may be strengthened by the assistance of Thy grace; through Jesus Christ our Lord. Amen.</p>
+            <p>—Gregorian Sacramentary</p>
+            <title level="2" ID="for-love" type="main">For Love</title>
+            <p>O God, who by the grace of the Holy Ghost hast poured the gifts of love into the hearts of Thy faithful people, grant unto all Thy servants in Thy mercy health of body and soul, that they may love Thee with all their strength, and with perfect affection fulfill Thy pleasure; through Jesus Christ our Lord. Amen.</p>
+            <p>—Gregorian Sacramentary</p>
+            <title level="2" ID="epiphany" type="main">Epiphany</title>
+            <p>Almighty and everlasting God, the Brightness of faithful souls, who didst bring the Gentiles to Thy light, and made known unto them Him who is the true Light, and the bright and morning Star, fill, we beseech Thee, the world with Thy glory, and show Thyself by the radiance of Thy light unto all nations; through Jesus Christ our Lord. Amen.</p>
+            <p>—Gregorian Sacramentary</p>
+            <title level="2" ID="prayer-for-pardon" type="main">Prayer for Pardon</title>
+            <p>O Lord Jesus Christ, who didst give Thy life for us that we might receive pardon and peace; mercifully cleanse us from all sin, and evermore keep us in Thy favour and love, who livest and reignest with the Father and the Holy Spirit, ever one God, world without end. Amen.</p>
+            <p>—An Ancient Collect</p>
+            <title level="2" ID="for-the-loving-care-of-the-good-shepherd" type="main">For the Loving Care of the Good Shepherd</title>
+            <p>O Lord Jesus Christ, Thou, good Shepherd of the sheep, who camest to seek the lost, and to gather them to Thy fold, have compassion upon those who have wandered from Thee; feed those who hunger, cause the weary to lie down in Thy pastures, bind up those who are broken in heart, and strengthen those who are weak, that we, relying on Thy care and being comforted by Thy love, may abide in Thy guidance to our lives’ end; for Thy name’s sake. Amen.</p>
+            <p>—An Ancient Collect</p>
+            <title level="2" ID="for-light" type="main">For Light</title>
+            <p>O Thou who art the Sun of Righteousness and the Light Eternal, giving gladness unto all things; shine upon us both now and for ever, that we may walk alway in the light of Thy countenance; through Jesus Christ our Lord. Amen.</p>
+            <p>—An Ancient Collect</p>
+            <title level="2" ID="for-rest" type="main">For Rest</title>
+            <p>Be present, O merciful God, and protect us through the silent hours of this night, so that we who are wearied by the work and the changes of this fleeting world may rest upon Thy eternal changelessness; through Jesus Christ our Lord. Amen.</p>
+            <p>—An Ancient Collect</p>
+            <title level="2" ID="for-morning-1" type="main">For Morning</title>
+            <p>O God, who hast folded back the mantle of the night to clothe us in the golden glory of the day, chase from our hearts all gloomy thoughts, and make us glad with the brightness of hope, that we may effectively aspire to unwon virtues, through Jesus Christ our Lord. Amen.</p>
+            <p>—An Ancient Collect</p>
+            <title level="2" ID="for-love-and-light" type="main">For Love and Light</title>
+            <p>O Lord, give us, we beseech Thee, in the name of Jesus Christ Thy Son our God, that love which can never cease, that will kindle our lamps but not extinguish them, that they may burn in us and enlighten others. Do Thou, O Christ, our dearest Saviour, Thyself kindle our lamps, that they may evermore shine in Thy temple, that they may receive unquenchable light from Thee that will enlighten our darkness, and lessen the darkness of the world. Lord Jesus, we pray Thee give Thy light to our lamps, that in its light the most holy place may be revealed to us in which Thou dwellest as the Eternal Priest, that we may always behold Thee, desire Thee, look upon Thee in love, and long after Thee, for Thy sake. Amen.</p>
+            <p>—Columba</p>
+        </div>
+        <div type="chapter" osisID="SEVENTH CENTURY PRAYERS">
+            <title level="1" ID="seventh-century-prayers" type="main">SEVENTH CENTURY PRAYERS</title>
+            <title level="2" ID="a-litany-on-the-passion" type="main">A Litany on the Passion</title>
+            <p>Show us Thy mercy, O Lord, grant pardon, grant remission:</p>
+            <p>And have mercy graciously.</p>
+            <p>Thou who, coming to save the world, wert brought to judgment, when Thou comest as Judge, deliver us not up with the ungodly:</p>
+            <p>And have mercy graciously.</p>
+            <p>Thou, who wert hung upon the Cross, bear on Thy shoulders the death due to our guilt:</p>
+            <p>And have mercy graciously.</p>
+            <p>Thou who didst once suffer for the ungodly, and diest no more, mortify our vices in us, and heal us by the wound of the Cross:</p>
+            <p>And have mercy graciously.</p>
+            <p>That in the judgment Thy face may not be turned on us for punishment, but may shine on us with pardon:</p>
+            <p>And have mercy graciously. Amen.</p>
+            <p>—Mozarabic Breviary<note type="x-footnote"><p>Old Spanish liturgy, later named Mozarabic.</p></note></p>
+            <title level="2" ID="a-litany-on-the-passion-1" type="main">A Litany on the Passion</title>
+            <p>O good Shepherd, who didst lay down Thy life for the sheep, remember us:</p>
+            <p>Be propitious, and have mercy upon us.</p>
+            <p>O everlasting Power and Wisdom of the most high God, Thou Word of the Father, remember us:</p>
+            <p>Be propitious, and have mercy upon us.</p>
+            <p>O Thou Maker of the world, the Life of all, the Lord of angels, remember us:</p>
+            <p>Be propitious, and have mercy upon us.</p>
+            <p>O Lamb of God, who for us wert led as a sheep to the slaughter, remember us:</p>
+            <p>Be propitious, and have mercy upon us.</p>
+            <p>O Thou who wert seized, thou guiltless, buffeted, given over to robbers, remember us:</p>
+            <p>Be propitious, and have mercy upon us.</p>
+            <p>Thou who alone hast by Thy death overcome the death of our guilt, remember us:</p>
+            <p>Be propitious, and have mercy upon us. Amen.</p>
+            <p>—Mozarabic Breviary</p>
+            <title level="2" ID="a-litany-for-forgiveness" type="main">A Litany for Forgiveness</title>
+            <p>We cry to Thee, O Lord, do Thou have mercy upon us:</p>
+            <p>And grant forgiveness.</p>
+            <p>O King of heaven, and everlasting Lord, receive the prayers which we pour forth:</p>
+            <p>And grant forgiveness.</p>
+            <p>Visit the sick—bring forth captives, help the widow and the orphan:</p>
+            <p>And grant forgiveness.</p>
+            <p>We have sinned and have departed from Thee, do Thou, who art the Redeemer of all, save us:</p>
+            <p>And grant forgiveness.</p>
+            <p>Have mercy on the penitent, and wash away the stains of sin:</p>
+            <p>And grant forgiveness. Amen.</p>
+            <p>—Mozarabic Breviary</p>
+            <title level="2" ID="a-litany-of-repentance" type="main">A Litany of Repentance</title>
+            <p>Turn away, O Lord, the fierceness of Thy wrath, and in pity spare Thy people:</p>
+            <p>And have mercy.</p>
+            <p>Grant a favourable and speedy answer to the prayers of all, we beseech Thee:</p>
+            <p>And have mercy.</p>
+            <p>Do Thou, O Christ, look upon our groanings, loose the bands of death, and grant us life:</p>
+            <p>And have mercy.</p>
+            <p>Behold our tears—consider our sighs, and now at length in pity forgive our sins:</p>
+            <p>And have mercy.</p>
+            <p>Though none of us be worthy to be heard, do Thou, O Christ, for Thine own self help us:</p>
+            <p>And have mercy. Amen.</p>
+            <p>—Mozarabic Breviary</p>
+            <title level="2" ID="a-litany-for-personal-dedication" type="main">A Litany for Personal Dedication</title>
+            <p>O Lord Jesus Christ, who art the ineffable joy of Christians, take away from us whatever is not Thine, and make us Thine in all things.</p>
+            <p>We beseech Thee to hear us, O Lord. Amen.</p>
+            <p>—Mozarabic Breviary</p>
+            <title level="2" ID="a-litany-against-temptation" type="main">A Litany Against Temptation</title>
+            <p>Raise up Thy power, and come to deliver us, O Lord our God; that as we are overwhelmed by the storms of temptation so we may be raised up by the aid of Thy strength.</p>
+            <p>We beseech Thee to hear us, O Lord. Amen.</p>
+            <p>—Mozarabic Breviary</p>
+            <title level="2" ID="for-pardon" type="main">For Pardon</title>
+            <p>O God, the Son of God—so loving, yet hated—so forbearing, yet assaulted unto death—who didst show Thyself so gentle and merciful to Thy persecutors; grant that through the wounds of Thy passion our sins may be expiated, and as in Thy humiliation Thou didst suffer death for us, so now, being glorified, bestow on us everlasting brightness. Amen.</p>
+            <p>—Mozarabic Liturgy</p>
+            <title level="2" ID="for-illumination" type="main">For Illumination</title>
+            <p>O glorious, holy, almighty God, who being ever pitiful to the manifold wanderings of mankind, didst doubtless for this end guide the Magi, who dwelt in dark superstition, by the light of a star to Thy sacred cradle, that Thou mightest kindle all men who were walking in their own errors with the desire of knowing Thee; kindle us also, we pray Thee, with the saving ardour of love for Thee, that we who have already known Thee by Thy gracious illumination, may be enabled to cleave to Thee for ever. Amen.</p>
+            <p>—Mozarabic Liturgy</p>
+            <title level="2" ID="confession" type="main">Confession</title>
+            <p>Hear our prayer, O Lord, and listen to our groanings, for we acknowledge our iniquities, and lay open our sins before Thee. Against Thee, O God, have we sinned; to Thee we make our confession, and implore forgiveness. Turn Thy face again, O Lord, upon Thy servants whom Thou hast redeemed with Thine own blood. Spare us, we pray Thee, and vouchsafe pardon to our sins, and be pleased to extend to us Thy loving-kindness and Thy mercy. Amen.</p>
+            <p>—Mozarabic Liturgy</p>
+            <title level="2" ID="daily-morning-prayer" type="main">Daily Morning Prayer</title>
+            <p>Let our prayer, O Lord, come before Thee in the morning. Thou didst take upon Thee our feeble and suffering nature; grant us to pass this day in gladness and peace, without stumbling and without stain; that reaching the even-tide without any temptation, we may praise Thee the Eternal King: through Thy mercy, O our God, who art blessed and dost live, and govern all things, world without end. Amen.</p>
+            <p>—Mozarabic Liturgy</p>
+            <title level="2" ID="for-firm-faith" type="main">For Firm Faith</title>
+            <p>Arise, O Lord, who judgest the earth; and as Thou dwellest in and possessest the faith of all nations, suffer us not to abide in darkness; and grant that we may not lay the foundations of our faith on the sand where the whirlwind may overthrow them, but be established on the rock which is steadfast in Thee. Amen.</p>
+            <p>—Mozarabic Liturgy</p>
+            <title level="2" ID="for-christs-companionship" type="main">For Christ’s Companionship</title>
+            <p>Jesus, our Master, do Thou meet us while we walk in the way, and long to reach the Country; so that, following Thy light, we may keep the way of righteousness, and never wander away into the darkness of this world’s night, while Thou, who art the way, the truth, and the life, art shining within us; for Thine own name’s sake. Amen.</p>
+            <p>—Mozarabic Liturgy</p>
+            <title level="2" ID="for-joy-and-peace-in-the-daily-walk" type="main">For Joy and Peace in the Daily Walk</title>
+            <p>Grant us, O Lord, to pass this day in gladness and peace, without stumbling and without stain; that reaching the eventide victorious over all temptation, we may praise Thee, the eternal God, who art blessed, and dost govern all things, world without end. Amen.</p>
+            <p>—Mozarabic Liturgy</p>
+            <title level="2" ID="for-the-peace-of-god-which-passeth-all-understanding" type="main">“For the Peace of God, which Passeth All Understanding”</title>
+            <p>O God who art Peace everlasting, whose chosen reward is the gift of peace, and who hast taught us that the peacemakers are Thy children, pour Thy peace into our souls, that everything discordant may utterly vanish, and all that makes for peace be sweet to us for ever; through Jesus Christ our Lord. Amen.</p>
+            <p>—Mozarabic Liturgy</p>
+            <title level="2" ID="for-light-and-love" type="main">For Light and Love</title>
+            <p>Let Thy mercy, O Lord, be upon us, and the brightness of Thy Spirit illumine our inward souls, that He may kindle our cold hearts, and light up our dark minds; who abideth evermore with Thee in Thy glory. Amen.</p>
+            <p>—Mozarabic Liturgy</p>
+            <title level="2" ID="for-heavenly-light" type="main">For Heavenly Light</title>
+            <p>O God, with whom is the well of life, and in whose light we see light, increase in us, we beseech Thee, the brightness of divine knowledge, whereby we may be able to reach Thy plenteous fountain; impart to our thirsting souls the draught of life, and restore to our darkened minds the light from heaven; through Jesus Christ our Lord. Amen.</p>
+            <p>—Mozarabic Liturgy</p>
+            <title level="2" ID="for-the-church" type="main">For the Church</title>
+            <p>Hear us, O God of our salvation, Thou hope of all the ends of the earth, and in Thy strength, set fast as the mountains, the outposts of Thy power, and strongholds of lofty virtues. On Thee we rely for gifts of aspiration, whereby to ascend to the summit of all blessedness; that Thy Church, as it extends to all corners of the world, may soar in faith, may rest in hope, and rise to the full height of charity; through Jesus Christ our Lord. Amen.</p>
+            <p>—Mozarabic Liturgy</p>
+            <title level="2" ID="christmas" type="main">Christmas</title>
+            <p>O God, to whom glory is sung in the highest, while on earth peace is proclaimed among men of goodwill; grant that same goodwill to us Thy servants; cleanse us from evil, and give peace to all Thy people; through Thy mercy, O blessed Lord God, who dost live and govern all things, world without end. Amen.</p>
+            <p>—Mozarabic Liturgy</p>
+            <title level="2" ID="for-rightful-recognition-of-god-the-giver-of-all-good-things" type="main">For Rightful Recognition of God, “The Giver of All Good Things”</title>
+            <p>O God, who, by making the evening to succeed the day, hast bestowed the gift of repose on human weakness, grant, we beseech Thee, that while we enjoy those timely blessings we may acknowledge Him from whom they come, even Jesus Christ our Lord. Amen.</p>
+            <p>—Mozarabic Liturgy</p>
+            <title level="2" ID="for-sanctification" type="main">For Sanctification</title>
+            <p>O Christ our God, who wilt come to judge the world in the manhood which Thou hast assumed, we pray Thee to sanctify us wholly, that in the day of Thy coming our whole spirit, soul, and body may so revive to a fresh life in Thee, that we may live and reign with Thee for ever, to Thine honour and glory; who with the Father and the Holy Spirit liveth and reigneth, ever one God. Amen.</p>
+            <p>—Mozarabic Liturgy</p>
+            <title level="2" ID="repentance" type="main">Repentance</title>
+            <p>Let Thy Spirit, O Lord, come into the midst of us, and washing us with the pure water of repentance, prepare us to be always a living sacrifice unto Thee; who livest and reignest, ever world without end. Amen.</p>
+            <p>—Mozarabic Liturgy</p>
+            <title level="2" ID="for-direction" type="main">For Direction</title>
+            <p>May the infinite and glorious Trinity, the Father, the Son, and the Holy Ghost, direct our life in good works, and after our passage through this world, grant to us eternal rest with the righteous. Grant this, O Eternal and Almighty God. Amen.</p>
+            <p>—Mozarabic Liturgy</p>
+            <title level="2" ID="for-the-sick-and-suffering" type="main">For the Sick and Suffering</title>
+            <p>O Christ our Lord, who art the Physician of salvation, grant unto all who are sick the aid of heavenly healing. Look upon all faithful people who are sick and who love to call upon Thy name, and take their souls into Thy keeping, and vouchsafe to deliver them from all sickness and infirmity; through Jesus Christ. Amen.</p>
+            <p>—Mozarabic Liturgy</p>
+            <title level="2" ID="for-new-year" type="main">For New Year</title>
+            <p>O Thou who art ever the same, grant us so to pass through the coming year with faithful hearts, that we may be able in all things to please Thy loving eyes; through Jesus Christ our Lord. Amen.</p>
+            <p>—Mozarabic Liturgy</p>
+            <title level="2" ID="for-the-holy-spirit" type="main">For the Holy Spirit</title>
+            <p>O Holy Spirit, the Comforter, who with the Father and the Son abidest one God, descend this day into our hearts, that while Thou makest intercession for us, we may with full confidence call upon our Father; through Jesus Christ our Lord. Amen.</p>
+            <p>—Mozarabic Liturgy</p>
+            <title level="2" ID="for-perseverance" type="main">For Perseverance</title>
+            <p>Look upon us and hear us, O Lord our God; and assist those endeavours to please Thee which Thou Thyself hast granted to us; as Thou hast given the first act of will, so give the completion of the work; grant that we may be able to finish what Thou hast granted us to wish to begin; through Jesus Christ our Lord. Amen.</p>
+            <p>—Mozarabic Liturgy</p>
+            <title level="2" ID="for-guidance-and-protection" type="main">For Guidance and Protection</title>
+            <p>Be Thou, O Lord, our protection, who art our redemption; direct our minds by Thy gracious presence, and watch over our paths with guiding love; that among the snares which lie hidden in the path wherein we walk, we may so press onwards with hearts fixed on Thee, that by the track of faith we may come to be where Thou wouldest have us; through Jesus Christ our Lord. Amen.</p>
+            <p>—Mozarabic Liturgy</p>
+            <title level="2" ID="for-rulers-and-the-nations" type="main">For Rulers and the Nations</title>
+            <p>O heavenly Father, we bend the knee before Thee on behalf of all kings, princes, and governors of this world, beseeching Thee to grant unto them by Thy inspiration, to rule in righteousness, to rejoice in peace, to shine in piety, and to labour for the well-being of the people committed unto them, so that, by the rectitude of the government, all faithful people may live without disturbance in the knowledge of Thee, and labour without hindrance for Thy glory. Amen.</p>
+            <p>—Mozarabic Liturgy</p>
+            <title level="2" ID="at-evening" type="main">At Evening</title>
+            <p>O Lord God, the Life of mortals, the Light of the faithful, the Strength of those who labor, and the Repose of the dead, grant us a tranquil night free from all disturbance; that after an interval of quiet sleep, we may, by Thy bounty, at the return of light, be endued with activity from the Holy Spirit, and enabled in security to render thanks to Thee. Amen.</p>
+            <p>—Mozarabic Sacramentary</p>
+            <title level="2" ID="litany-for-true-worship" type="main">Litany for True Worship</title>
+            <p>O God, who hast bidden us to worship Thee in spirit and in truth, shadow us with the power of Thy Holy Spirit—let Thy mercy and the promised grace of Thy salvation come upon us, that our prayer may be directed unto Thee by Him, through whom we believe our sins to be forgiven.</p>
+            <p>We beseech Thee to hear us, O Lord. Amen.</p>
+            <p>—Mozarabic Sacramentary</p>
+            <title level="2" ID="good-friday" type="main">Good Friday</title>
+            <p>Today, O good Jesus, for us Thou didst not hide Thy face from shame and spitting. Today, Jesus our Redeemer, for us Thou wast mocked, buffeted by unbelievers, and crowned with thorns. Today, O good Shepherd, Thou didst lay down Thy life on the Cross for the sheep, and wast crucified with robbers, and hadst Thy sacred hands nailed through. Today Thou wast laid in the guarded sepulchre, and the saints burst open their tombs. Today, O good Jesus, put an end to our sins, that on the day of Thy resurrection we may joyfully receive Thy holy body, and be refreshed with Thy sacred blood. Amen.</p>
+            <p>—Mozarabic Sacramentary</p>
+            <title level="2" ID="easter" type="main">Easter</title>
+            <p>The Day of Resurrection has dawned upon us, the day of true light and life, wherein Christ, the life of believers, arose from the dead. Let us give abundant thanks and praise to God, that while we solemnly celebrate the day of our Lord’s resurrection, He may be pleased to bestow on us quiet peace and special gladness; so that being protected from morning to night by His favoring mercy, we may rejoice in the gift of our Redeemer. Amen.</p>
+            <p>—Mozarabic Sacramentary</p>
+            <title level="2" ID="for-spiritual-illumination" type="main">For Spiritual Illumination</title>
+            <p>Hear us, O never-failing Light, Lord our God, our only light, the fountain of light, the light of Thine angels, thrones, dominions, principalities, powers, and of all intelligent beings; who hast created the light of Thy saints. May our souls be lamps of Thine, kindled and illuminated by Thee. May they shine and burn with the truth, and never go out in darkness and ashes. May we be Thy house, shining from Thee, shining in Thee; may we shine and fail not; may we ever worship Thee; in Thee may we be kindled, and not be extinguished. Being filled with the splendor of Thy Son our Lord Jesus Christ, may we shine forth inwardly; may the gloom of sins be cleared away, and the light of perpetual faith abide with us. Amen.</p>
+            <p>—Mozarabic Sacramentary</p>
+            <title level="2" ID="a-good-example" type="main">A Good Example</title>
+            <p>Make us, O Lord, to flourish like pure lilies in the courts of Thine house, and to show forth to the faithful the fragrance of good words, and the example of a Godly life, through Thy mercy and grace. Amen.</p>
+            <p>—Mozarabic Sacramentary</p>
+            <title level="2" ID="evening" type="main">Evening</title>
+            <p>O blessed Spirit of Truth, Thou who searchest the heart and triest the inmost thoughts, bring, I pray Thee, my sins to my remembrance, and grant me light to see and find them out. Strengthen me also with courage to confess them truly, hiding nothing, excusing nothing, keeping back nothing in my heart; that I may, of Thy mercy, obtain pardon and entire absolution; and, thus healed, may arise and sin no more, through the merits and for the sake of Jesus Christ, my Lord and only Saviour. Amen.</p>
+            <p>—Mozarabic Sacramentary</p>
+        </div>
+        <div type="chapter" osisID="EIGHTH CENTURY PRAYERS">
+            <title level="1" ID="eighth-century-prayers" type="main">EIGHTH CENTURY PRAYERS</title>
+            <title level="2" ID="a-petition" type="main">A Petition</title>
+            <p>And now, we beseech Thee Lord Jesus, that to whom Thou dost vouchsafe sweet draughts of the words of Thy knowledge, Thou wilt also, of Thy goodness, grant that we may, in due time, come to Thee, the fountain of all wisdom, and ever stand before Thy face; for Thy sake. Amen.</p>
+            <p>—Venerable Bede</p>
+            <title level="2" ID="for-the-spirit-of-truth" type="main">For the Spirit of Truth</title>
+            <p>O glorious King, Lord of all power, who triumphing this day didst ascend above the heavens, leave us not orphans, but send down on us, from the Father, the spirit of truth which Thou hast promised. Hallelujah! Amen.</p>
+            <p>—Venerable Bede</p>
+            <title level="2" ID="for-cleansing" type="main">For Cleansing</title>
+            <p>Almighty and merciful God, the Fountain of all goodness, who knowest the thoughts of our hearts, we confess unto Thee that we have sinned against Thee, and done evil in Thy sight. Wash us, we beseech Thee, from the stains of our past sins, and give us grace and power to put away all hurtful things; so that, being delivered from the bondage of sin, we may bring forth worthy fruits of repentance.</p>
+            <p>O eternal Light, shine into our hearts. O eternal Goodness, deliver us from evil. O eternal Power, be Thou our support. Eternal Wisdom, scatter the darkness of our ignorance. Eternal Pity, have mercy upon us. Grant unto us that with all our hearts, and minds, and strength, we may evermore seek Thy face; and finally bring us, in Thine infinite mercy, to Thy holy presence. So strengthen our weakness that, following in the footsteps of Thy blessed Son, we may obtain Thy mercy, and enter into Thy promised Joy. Amen.</p>
+            <p>—Alcuin</p>
+            <title level="2" ID="for-illumination-1" type="main">For Illumination</title>
+            <p>O most merciful God, incline Thy loving ears to our prayers, and illuminate the hearts of those called by Thee, with the grace of the Holy Spirit, that they may be enabled worthily to minister to Thy mysteries, and to love Thee with an everlasting love, and to attain everlasting joys; through Jesus Christ our Lord. Amen.</p>
+            <p>—Gallican Collect</p>
+            <title level="2" ID="to-be-set-free" type="main">To Be Set Free</title>
+            <p>O God, who art the Author of love, and the Lover of pure peace and affection, let all who are terrified by fears, afflicted by poverty, harassed by tribulation, worn down by illness, be set free by Thine indulgent tenderness, raised up by amendment of life, and cherished by Thy daily compassion, through Jesus Christ our Lord. Amen.</p>
+            <p>—A Gallican Sacramentary</p>
+            <title level="2" ID="for-a-friend-before-a-journey" type="main">For a Friend Before a Journey</title>
+            <p>O God, who bestowest Thy mercy at all times on them that love Thee, and in no place art distant from those that serve Thee; direct the way of Thy servant in Thy will, that having Thee for his Protector and Guide, he may walk without stumbling in the paths of righteousness, through Jesus Christ our Lord. Amen.</p>
+            <p>—A Gallican Sacramentary</p>
+            <title level="2" ID="for-christian-graces" type="main">For Christian Graces</title>
+            <p>Give me, O Lord, purity of lips, a clean and innocent heart, and rectitude of action. Give me humility, patience, abstinence, chastity, prudence, justice, fortitude, temperance. Give me the spirit of wisdom and understanding, the spirit of counsel and strength, the spirit of knowledge and godliness, and of Thy fear. Make me ever to seek Thy face with all my heart, all my soul, all my mind; grant me to have a contrite and humbled heart in Thy presence—to prefer nothing to Thy love. Most high, eternal, and ineffable Wisdom, drive away from me the darkness of blindness and ignorance; most high and eternal Strength, deliver me; most high and eternal Fortitude, assist me; most high and incomprehensible Light, illuminate me; most high and infinite Mercy, have mercy on me. Amen.</p>
+            <p>—A Gallican Sacramentary</p>
+            <title level="2" ID="for-help-to-all" type="main">For Help to All</title>
+            <p>[O God,] give perfection to beginners, give intelligence to the little ones, give aid to those who are running their course. Give compunction to the negligent, give fervor of spirit to the lukewarm, give to the perfect a good consummation. Amen.</p>
+            <p>—A Gallican Sacramentary</p>
+            <title level="2" ID="for-mercy-1" type="main">For Mercy</title>
+            <p>O Lord, who didst give to Thine Apostles peace, shed down upon us all Thy holy calm; gather together with Thy hand all those who are scattered, and bring them like sheep into the fold of Thy holy Church, through Jesus Christ our Lord.</p>
+            <p>Strengthen and confirm me, O Lord, by Thy Cross, on the rock of faith, that my mind be not shaken by the attacks of the enemy. For Thou alone art holy.</p>
+            <p>Thou knowest, O Lord, how many and great are my sins, Thou knowest how often I sin, from day to day, from hour to hour, in the things I do and the things I leave undone. No more, O Lord, no more, O Lord my God, will I provoke Thee; no more shall my desire be for anything but Thee, for Thou alone art truly lovable. And if again I offend in anything, I humbly beseech Thee of Thy mercy to grant me strength to find favour again in Thy sight and to live in a manner more pleasing to Thee. Amen.</p>
+            <p>—Theodore Studita</p>
+        </div>
+        <div type="chapter" osisID="NINTH CENTURY PRAYERS">
+            <title level="1" ID="ninth-century-prayers" type="main">NINTH CENTURY PRAYERS</title>
+            <title level="2" ID="for-unity" type="main">For Unity</title>
+            <p>O God the Father, origin of Divinity, good beyond all that is good, fair beyond all that is fair, in whom is calmness, peace, and concord; do Thou make up the dissensions which divide us from each other, and bring us back into a unity of love, which may bear some likeness to Thy divine nature. And as Thou art above all things, make us one by the unanimity of a good mind, that through the embrace of charity and the bonds of affection, we may be spiritually one, as well in ourselves as in each other; through that peace of Thine which maketh all things peaceful, and through the grace, mercy, and tenderness of Thy Son, Jesus Christ. Amen.</p>
+            <p>—Dionysius of the Syrian Jacobite Church</p>
+            <title level="2" ID="for-help" type="main">For Help</title>
+            <p>O Thou who art the everlasting Essence of things beyond space and time and yet within them; Thou who transcendest yet pervadest all things, manifest Thyself unto us, feeling after Thee, seeking Thee in the shades of ignorance. Stretch forth Thy hand to help us, who cannot without Thee come to Thee; and reveal Thyself unto us, who seek nothing beside Thee; through Jesus Christ our Lord. Amen.</p>
+            <p>—John Scotus Erigena</p>
+            <title level="2" ID="for-strength-and-guidance" type="main">For Strength and Guidance</title>
+            <p>Lord God Almighty, shaper and ruler of all creatures, we pray Thee for Thy great mercy, that Thou guide us better than we have done, towards Thee, and guide us to Thy will, to the need of our soul, better than we can ourselves. And steadfast our mind towards Thy will and to our soul’s need. And strengthen us against the temptations of the devil, and put far from us all lust, and every unrighteousness, and shield us against our foes, seen and unseen. And teach us to do Thy will, that we may inwardly love Thee before all things, with a pure mind. For Thou art our maker and our redeemer, our help, our comfort, our trust, our hope; praise and glory be to Thee now, ever and ever, world without end. Amen.</p>
+            <p>—Alfred the Great</p>
+            <title level="2" ID="an-acknowledgment-of-gods-supremacy" type="main">An Acknowledgment of God’s Supremacy</title>
+            <p>O Thou who art the Father of that Son which hast awakened us, and yet urgest us out of the sleep of our sins, and exhortest us that we become Thine, to Thee, Lord, we pray, who art the supreme truth, for all truth that is, is from Thee. Thee we implore, O Lord, who art the highest wisdom, through Thee are wise, all those that are so. Thou art the supreme joy, and from Thee all have become happy that are so. Thou art the highest good, and from Thee all beauty springs. Thou art the intellectual light, and from Thee man derives his understanding. To Thee, O God, we call and speak. Hear us, O Lord, for Thou art our God and our Lord, our father and our creator, our ruler and our hope, our wealth and our honour, our home, our country, our salvation, and our life; hear, hear us, O Lord. Few of Thy servants comprehend Thee, but at least we love Thee—yea, love Thee above all other things. We seek Thee, we follow Thee, we are ready to serve Thee; under Thy power we desire to abide, for Thou art the Sovereign of all. We pray Thee to command us as Thou wilt; through Jesus Christ Thy Son our Lord. Amen.</p>
+            <p>—Alfred the Great</p>
+            <title level="2" ID="for-forgiveness-1" type="main">For Forgiveness</title>
+            <p>We implore the mercy of Thy Majesty, that it may please Thee to give to us Thy servants, pardon of our sins, that we, being delivered from all the bonds of the enemy, may cleave to Thy commandments with our whole heart, and evermore love Thee alone, with all our strength, and one day be counted worthy to attain to the sight of Thy blessedness. Through Jesus Christ our Lord. Amen.</p>
+            <p>—Old Rheims Manuscript</p>
+        </div>
+        <div type="chapter" osisID="TENTH CENTURY PRAYERS">
+            <title level="1" ID="tenth-century-prayers" type="main">TENTH CENTURY PRAYERS</title>
+            <title level="2" ID="benediction" type="main">Benediction</title>
+            <p>May our Lord Jesus Christ be near us to defend us, within us to refresh us, around us to preserve us, before us to guide us, behind us to justify us, above us to bless us, who liveth and reigneth with the Father and the Holy Ghost, God for evermore. Amen.</p>
+            <p>—Anonymous</p>
+            <title level="2" ID="for-a-birthday" type="main">For a Birthday</title>
+            <p>We beseech Thee, Lord, open Thy heavens; from thence may Thy gifts descend to him. Put forth Thine own hand from heaven and touch his head. May he feel the touch of Thy hand, and receive the joy of the Holy Spirit, that he may remain blessed for evermore. Amen.</p>
+            <p>—Ethelwold of York</p>
+            <title level="2" ID="confession-and-prayer-for-forgiveness" type="main">Confession and Prayer for Forgiveness</title>
+            <p>O Lord, O King, resplendent on the citadel of heaven, all hail continually; and of Thy clemency upon Thy people still do Thou have mercy.</p>
+            <p>Lord, Whom the hosts of cherubim in songs and hymns with praise continually proclaim, do Thou upon us eternally have mercy.</p>
+            <p>The armies aloft, O Lord, do sing high praise to Thee, even they to whom the seraphim reply, “do Thou have mercy.”</p>
+            <p>O Christ, enthroned as King above, whom the nine orders of angels in their beauty praise without ceasing, deign Thou upon us, Thy servants, ever to have mercy.</p>
+            <p>O Christ, whom Thy one only Church throughout the world doth hymn, O Thou to whom the sun, the moon, and stars, the land and sea, do service ever, do Thou have mercy.</p>
+            <p>O Christ, those holy ones, the heirs of the eternal country, one and all with utter joy proclaim Thee in a most worthy strain: do Thou have mercy upon us.</p>
+            <p>O Lord, O gentle Son of Mary free, O King of Kings, blessed Redeemer, upon those who have been ransomed from the power of death, by Thine own blood, ever have mercy.</p>
+            <p>O noblest unbegotten, yet begotten Son, having no beginning of age, yet without effort (in the weakness of God) excelling all things, upon this Thy congregation in Thy pity, Lord have mercy.</p>
+            <p>O Sun of Righteousness, in all unclouded glory, supreme dispenser of justice, in that great day when Thou shalt strictly judge all nations, we earnestly beseech Thee, upon This Thy people, who here stand before Thy presence, in Thy pity, Lord, then have mercy upon us. Amen.</p>
+            <p>—Dunstan of Canterbury</p>
+            <title level="2" ID="dying-words" type="main">Dying Words</title>
+            <p>Glory be to Thee, Almighty Father, who hast given to them that fear Thee the heavenly bread of life, that we may be mindful of the marvels which Thou hast wrought upon the earth, by sending us Thy only begotten Son, very man, born of a pure virgin. We give thanks, as is most justly due, to Thee, O Holy Father, who didst create us ere yet we were, and whilst we were yet sinners didst make us partakers of Thy heavenly grace, through the same Thy Son, our Lord and God, who with Thee and the Holy Ghost maketh, ordereth, and ruleth all things for ever and ever, world without end. Amen.</p>
+            <p>—Dunstan of Canterbury</p>
+        </div>
+        <div type="chapter" osisID="ELEVENTH CENTURY PRAYERS">
+            <title level="1" ID="eleventh-century-prayers" type="main">ELEVENTH CENTURY PRAYERS</title>
+            <title level="2" ID="for-pardon-grace-and-guidance" type="main">For Pardon, Grace, and Guidance</title>
+            <p>O Thou plenteous source of every good and perfect gift, shed abroad the cheering light of Thy sevenfold grace over our hearts. Yea, Spirit of love and gentleness, we most humbly implore Thy assistance. Thou knowest our faults, our failings, our necessities, the dulness of our understanding, the waywardness of our affections, the perverseness of our will. When, therefore, we neglect to practise what we know, visit us, we beseech Thee, with Thy grace, enlighten our minds, rectify our desires, correct our wanderings, and pardon our omissions, so that by Thy guidance we may be preserved from making shipwreck of faith, and keep a good conscience, and may at length be landed safe in the haven of eternal rest; through Jesus Christ our Lord. Amen.</p>
+            <p>—Anselm</p>
+            <title level="2" ID="for-the-afflicted-and-distressed" type="main">For the Afflicted and Distressed</title>
+            <p>We bring before Thee, O Lord, the troubles and perils of people and nations, the sighing of prisoners and captives, the sorrows of the bereaved, the necessities of strangers, the helplessness of the weak, the despondency of the weary, the failing powers of the aged. O Lord, draw near to each; for the sake of Jesus Christ our Lord. Amen.</p>
+            <p>—Anselm</p>
+            <title level="2" ID="for-blessedness" type="main">For Blessedness</title>
+            <p>O God, Thou art life, wisdom, truth, bounty, and blessedness, the Eternal, the only true Good! My God and my Lord, Thou art my hope and my heart’s joy. I confess, with thanksgiving, that Thou hast made me in Thine image, that I may direct all my thoughts to Thee, and love Thee. Lord, make me to know Thee aright, that I may more and more love, and enjoy, and possess Thee. And since, in the life here below, I cannot fully attain this blessedness, let it at least grow in me day by day, until it all be fulfilled at last in the life to come. Here be the knowledge of Thee increased, and there let it be perfected. Here let my love to Thee grow, and there let it ripen; that my joy being here great in hope, may there in fruition be made perfect. Amen.</p>
+            <p>—Anselm</p>
+            <title level="2" ID="for-our-friends" type="main">For Our Friends</title>
+            <p>O fountain of love, love Thou our friends and teach them to love Thee with all their hearts, that they may think and speak and do only such things as are well-pleasing to Thee; through Jesus Christ our Lord. Amen.</p>
+            <p>—Anselm</p>
+            <title level="2" ID="for-heavenly-mindedness" type="main">For Heavenly-Mindedness</title>
+            <p>O merciful God, fill our hearts, we pray Thee, with the graces of Thy Holy Spirit, with love, joy, peace, long-suffering, gentleness, goodness, faith, meekness, temperance. Teach us to love those who hate us, to pray for those who despitefully use us, that we may be the children of Thee our Father, who makest Thy sun to shine on the evil and on the good, and sendest rain on the just and on the unjust. In adversity grant us grace to be patient; in prosperity keep us humble; may we guard the door of our lips; may we lightly esteem the pleasures of this world, and thirst after heavenly things; through Jesus Christ our Lord. Amen.</p>
+            <p>—Anselm</p>
+            <title level="2" ID="for-the-presence-of-the-holy-spirit" type="main">For the Presence of the Holy Spirit</title>
+            <p>O holy Paraclete, sweetest consolation of the sorrowful, gracious Spirit come down at this time with Thy mighty power into the depths of our hearts. Gladden there with Thy brightness every dark retreat, and enrich all with the dew of Thine abundant comfort. Kindle our inward parts with holy favour, that the incense of our prayers and praises may ever go up to Thee, O our God; through Jesus Christ Thy Son our Lord. Amen.</p>
+            <p>—Anselm</p>
+            <title level="2" ID="for-zeal" type="main">For Zeal</title>
+            <p>O almighty and merciful Father, who pourest Thy benefits upon us, forgive the unthankfulness with which we have requited Thy goodness. We have remained before Thee with dead and senseless hearts, unkindled with love of Thy gentle and enduring goodness. Turn Thou us, O merciful Father, and so shall we be turned. Make us with our whole heart to hunger and thirst after Thee, and with all our longing to desire Thee. Make us with our whole heart to serve Thee alone and with all our zeal to seek those things which are well-pleasing in Thy sight; for the sake of Thine only begotten Son, to whom with Thee and the Holy Ghost be all honour and glory, for ever and ever. Amen.</p>
+            <p>—Anselm</p>
+            <title level="2" ID="for-union-with-god" type="main">For Union with God</title>
+            <p>O Lord our God, grant us grace to desire Thee with our whole heart, that so desiring, we may seek and find Thee; and so finding Thee we may love Thee; and loving Thee we may hate those sins from which Thou hast redeemed us; for the sake of Jesus Christ. Amen.</p>
+            <p>—Anselm</p>
+            <title level="2" ID="for-holy-week" type="main">For Holy Week</title>
+            <p>O Father, most merciful, who in the beginning didst create us, and by the passion of Thine only begotten Son hast created us anew, work in us now, we beseech Thee, both to will and to do of Thy good pleasure. And forasmuch as we are weak, and can do no good thing of ourselves, grant us Thy grace and heavenly benediction, that in whatsoever work we engage we may do all to Thy honour and glory; and that, being kept from sin and daily increasing in good works, so long as we live in the body we may ever show forth some service to Thee; and after our departure may receive pardon of all our sins, and attain eternal life; through Him who, with Thee and the Holy Ghost, liveth and reigneth for ever and ever. Amen.</p>
+            <p>—Anselm</p>
+            <title level="2" ID="for-perfection" type="main">For Perfection</title>
+            <p>O Lord Jesus Christ, our redemption and our salvation, we praise Thee and give Thee thanks; and though we be unworthy of Thy benefits, and cannot offer unto Thee due devotion, yet let Thy loving-kindness fill up that which our weakness endeavoureth. Before Thee, O Lord, is all our desire, and whatsoever our heart rightly willeth, it is of Thy gift. Grant that we may attain to love Thee even as Thou commandest. Let not Thy gift be unfruitful in us. Perfect that Thou hast begun, give that which Thou hast made us to long after, convert Thou our lukewarmness into fervent love of Thee; for the glory of Thy holy name. Amen.</p>
+            <p>—Anselm</p>
+            <title level="2" ID="for-absent-friends" type="main">For Absent Friends</title>
+            <p>O blessed Lord and Saviour, who hast commanded us to love one another, grant us grace that, having received Thine undeserved bounty, we may love every man in Thee and for Thee. We beseech Thy blessing for all; but especially for the friends whom Thy love hast given to us. Love Thou them, O Thou fountain of love, and make them to love Thee with all their heart, with all their mind, and with all their soul, that those things only which are pleasing to Thee they may will, and speak, and do. And though our prayer is cold, because our charity is so little fervent, yet Thou art rich in mercy. Measure not to them Thy goodness by the dulness of our devotion; but as Thy kindness surpasseth all human affection, so let Thy hearing transcend our prayer. Do Thou to them what is expedient for them, according to Thy will, that they, being always and everywhere ruled and protected by Thee, may attain in the end to everlasting life; and to Thee, with the Father and the Holy Spirit, be all honour and praise for ever and ever. Amen.</p>
+            <p>—Anselm</p>
+            <title level="2" ID="for-strength-and-power" type="main">For Strength and Power</title>
+            <p>Most merciful God, the helper of all men, so strengthen us by Thy power that our sorrow may be turned into joy, and we may continually glorify Thy holy name; through Jesus Christ our Lord. Amen.</p>
+            <p>—Sarum Breviary</p>
+            <title level="2" ID="for-enlightenment" type="main">For Enlightenment</title>
+            <p>We beseech Thee, O Lord, let our hearts be graciously enlightened by Thy holy radiance, that we may serve Thee without fear in holiness and righteousness all the days of our life; that so we may escape the darkness of this world, and by Thy guidance attain the land of eternal brightness; through Thy mercy, O blessed Lord, who dost live and govern all things, world without end. Amen.</p>
+            <p>—Sarum Breviary</p>
+            <title level="2" ID="in-time-of-trouble" type="main">In Time of Trouble</title>
+            <p>O God, who tellest the number of the stars, and callest them all by their names: heal, we beseech Thee, the contrite in heart, and gather together the outcasts, and enrich us with the fulness of Thy wisdom; through Christ our Lord. Amen.</p>
+            <p>—Sarum Breviary</p>
+            <title level="2" ID="for-whitsunday-pentecost" type="main">For Whitsunday (Pentecost)</title>
+            <p>O God, who purifiest the heart of man from sin, and makest it more white than snow, pour down upon us the abundance of Thy mercy; renew, we beseech Thee, Thy Holy Spirit within us, that we may show forth Thy praise, and, strengthened by Thy grace, may obtain rest in the eternal mansions of the heavenly Jerusalem; through our Lord Jesus Christ. Amen.</p>
+            <p>—Sarum Breviary</p>
+            <title level="2" ID="for-holy-week-1" type="main">For Holy Week</title>
+            <p>O Lord, who dost wash out our offences, do Thou comfort us who faithfully call upon Thee; and, we beseech Thee, that Thou wouldest blot out our transgressions, and restore us from death to the land of the living; through Christ our Lord. Amen.</p>
+            <p>—Sarum Breviary</p>
+            <title level="2" ID="for-spiritual-gladness" type="main">For Spiritual Gladness</title>
+            <p>Hear us, O Lord, we beseech Thee, and in our tribulations pity us, grant unto us spiritual gladness, and give us everlasting peace; through Jesus Christ our Lord. Amen.</p>
+            <p>—Sarum Breviary</p>
+            <title level="2" ID="for-acceptable-service" type="main">For Acceptable Service</title>
+            <p>O glorious and almighty God, in whom all the spirits of the blessed place the confidence of their hope; grant to us that, by Thy help, we may be able ever to serve Thee with a pure mind; through Jesus Christ our Lord. Amen.</p>
+            <p>—Sarum Breviary</p>
+            <title level="2" ID="for-light-1" type="main">For Light</title>
+            <p>Bestow Thy light upon us, O Lord, so that, being rid of the darkness of our hearts, we may attain unto the true Light; through Jesus Christ, who is the Light of the World. Amen.</p>
+            <p>—Sarum Breviary</p>
+            <title level="2" ID="for-grace-and-deliverance" type="main">For Grace and Deliverance</title>
+            <p>Feed Thy people, O Lord, with Thy grace, and deliver our souls from the death of sin; so that, being filled with Thy mercy, we may be united with the joys of the righteous; through Jesus Christ our Lord. Amen.</p>
+            <p>—Sarum Breviary</p>
+            <title level="2" ID="for-the-spread-of-christs-kingdom" type="main">For the Spread of Christ’s Kingdom</title>
+            <p>Almighty God and heavenly Father, who of Thine infinite love and goodness towards us, hast given to us Thy only and most dearly beloved Son, Jesus Christ, to be our redeemer and the author of everlasting life, who, after He made perfect our redemption, by His death and was ascended into heaven, sent abroad into the world His apostles, prophets, evangelists, doctors, and pastors; by whose labour and ministry He gathered together a great flock from all parts of the world, to set forth the eternal praise of Thy holy name: for these so great benefits of Thy eternal goodness we render unto Thee most hearty thanks. We praise and worship Thee, and we humbly beseech Thee, by the same Thy blessed Son, to grant unto all which here or elsewhere, call upon Thy holy name, that we may continue to show ourselves thankful unto Thee for these and all other Thy benefits, and that we may daily increase and go forward in the knowledge and faith of Thee and Thy Son by the Holy Spirit, so that Thy holy name may be for ever glorified, and Thy blessed Kingdom enlarged; through the same Thy Son Jesus Christ our Lord, who liveth and reigneth with Thee in the unity of the same Holy Spirit, world without end. Amen.</p>
+            <p>—Sarum Breviary</p>
+            <title level="2" ID="for-deliverance-from-sin" type="main">For Deliverance from Sin</title>
+            <p>O Lord, vouchsafe to look mercifully upon us, and grant that we may choose the way of peace; so that, rescued from the captivity of the sins which have oppressed us, we may attain the dwellings of the heavenly Jerusalem; through Jesus Christ. Amen.</p>
+            <p>—Sarum Breviary</p>
+            <title level="2" ID="for-brotherly-kindness" type="main">For Brotherly Kindness</title>
+            <p>Pour upon us, O Lord, the spirit of brotherly kindness and peace; so that, sprinkled with the dew of Thy benediction, we may be made glad by Thy glory and grace; through Jesus Christ our Lord. Amen.</p>
+            <p>—Sarum Breviary</p>
+            <title level="2" ID="for-health" type="main">For Health</title>
+            <p>O God, who through the grace of Thy Holy Spirit, dost pour the gift of love into the hearts of Thy faithful people, grant unto us health, both of mind and body, that we may love Thee with our whole strength, and with entire satisfaction may perform those things which are pleasing unto Thee this day; through Christ our Lord. Amen.</p>
+            <p>—Sarum Breviary</p>
+            <title level="2" ID="for-grace-to-walk-in-holiness" type="main">For Grace to Walk in Holiness</title>
+            <p>O God of strength, passing all understanding, who mercifully givest to Thy people mercy and judgment; grant to us, we beseech Thee, faithfully to love Thee, and to walk this day in the way of righteousness; through Jesus Christ our Lord. Amen.</p>
+            <p>—Sarum Breviary</p>
+            <title level="2" ID="a-prayer-for-today" type="main">A Prayer for Today</title>
+            <p>In this hour of this day, fill us, O Lord, with Thy mercy, that rejoicing throughout the whole day, we may take delight in Thy praise; through Jesus Christ our Lord. Amen.</p>
+            <p>—Sarum Breviary</p>
+            <title level="2" ID="supplication" type="main">Supplication</title>
+            <p>Almighty God, we invoke Thee, the fountain of everlasting light, and entreat Thee to send forth Thy truth into our hearts, and to pour upon us the glory of Thy brightness; through Jesus Christ our Lord. Amen.</p>
+            <p>—Sarum Breviary</p>
+            <title level="2" ID="for-divine-control" type="main">For Divine Control</title>
+            <p>O Lord God, King of heaven and earth, may it please Thee this day to order and to hallow, to rule and to govern, our hearts and our bodies, our thoughts, our works, and our words, according to Thy commandments, that we, being helped by Thee, may here and for ever be delivered and saved; through Jesus Christ our Lord. Amen.</p>
+            <p>—Roman Breviary</p>
+            <title level="2" ID="for-a-knowledge-of-gods-will" type="main">For a Knowledge of God’s Will</title>
+            <p>Most gracious God, to know and love whose will is righteousness, enlighten our souls with the brightness of Thy presence, that we may both know Thy will and be enabled to perform it; through Jesus Christ our Lord. Amen.</p>
+            <p>—Roman Breviary</p>
+            <title level="2" ID="for-increased-love-toward-god" type="main">For Increased Love Toward God</title>
+            <p>O Lord, we beseech Thee that Thy people may grow ever in love toward Thee, their Father, who art in heaven, and may so be schooled by holy works, that ever, as Thou dost pour Thy gifts upon them, they may walk before Thee in all such things as be well-pleasing in the sight of Thy Divine Majesty; for the sake of Christ Jesus our Lord. Amen.</p>
+            <p>—Roman Breviary</p>
+            <title level="2" ID="for-peace" type="main">For Peace</title>
+            <p>O God, the consolation of all such as be sorrowful, and the salvation of them that put their trust in Thee, grant unto us, in this dying life, that peace for which we humbly pray, and hereafter to attain unto everlasting joy in Thy presence; through our Lord Jesus Christ. Amen.</p>
+            <p>—Roman Breviary</p>
+            <title level="2" ID="for-defense-from-evil" type="main">For Defense from Evil</title>
+            <p>Grant unto us, we beseech Thee, O almighty God, that we, who seek the shelter of Thy protection, being defended from all evils, may serve Thee in peace and quietness of spirit; through Jesus Christ our Lord. Amen.</p>
+            <p>—Roman Breviary</p>
+            <title level="2" ID="for-assistance-in-temptation" type="main">For Assistance in Temptation</title>
+            <p>Almighty and merciful God, who dost grant unto Thy faithful people the grace to make every path of life temporal, the strait and narrow way which leadeth unto life eternal, grant that we, who know that we have no strength as of ourselves to help ourselves, and therefore do put all our trust in Thine almighty power, may, by the assistance of Thy heavenly grace, always prevail in all things, against whatsoever shall arise to fight against us; through Jesus Christ our Lord. Amen.</p>
+            <p>—Roman Breviary</p>
+            <title level="2" ID="for-protection" type="main">For Protection</title>
+            <p>O God, the Shepherd of all Thy people, deliver the same from all sins which do assail them, that so they may ever be pleasing in Thy sight, and safe under Thy shelter; for Christ’s sake. Amen.</p>
+            <p>—Roman Breviary</p>
+            <title level="2" ID="for-loyal-service" type="main">For Loyal Service</title>
+            <p>Almighty and everlasting God, grant that our wills be ever meekly subject to Thy will, and our hearts be ever honestly ready to serve Thee; for the sake of Jesus Christ our Lord. Amen.</p>
+            <p>—Roman Breviary</p>
+            <title level="2" ID="for-purified-lives" type="main">For Purified Lives</title>
+            <p>O God, mercifully grant unto us that the fire of Thy love may burn up in us all things that displease Thee, and make us meet for Thy heavenly Kingdom; for the sake of Jesus Christ our Saviour. Amen.</p>
+            <p>—Roman Breviary</p>
+            <title level="2" ID="for-strength" type="main">For Strength</title>
+            <p>Be Thou Thyself, O Lord, the Sanctifier and the Shepherd of Thy people, that we, who are strengthened by Thy help, may in our daily life walk with Thee, and in all quietness of spirit serve Thee; through Jesus Christ our Master. Amen.</p>
+            <p>—Roman Breviary</p>
+            <title level="2" ID="for-the-prisoner" type="main">For the Prisoner</title>
+            <p>O God, let the sighing of the prisoner come before Thee, and mercifully grant unto us that we may be delivered by Thine almighty power from all bonds and chains of sin, whether in our bodies or in our souls, through Jesus Christ our Lord. Amen.</p>
+            <p>—Roman Breviary</p>
+        </div>
+        <div type="chapter" osisID="TWELFTH CENTURY PRAYERS">
+            <title level="1" ID="twelfth-century-prayers" type="main">TWELFTH CENTURY PRAYERS</title>
+            <title level="2" ID="need-for-heavenly-refreshment" type="main">Need for Heavenly Refreshment</title>
+            <p>[O God,] my heart is a vain heart, a vagabond and instable heart; while it is led by its own judgment, and wanting divine counsel, cannot subsist in itself; and whilst it divers ways seekest not, findeth none, but remaineth miserable through labor, and void of peace: it agreeth not with itself, it dissenteth from itself, it altereth resolutions, changeth the judgment, frameth new thoughts, pulleth down the old, and buildeth them up again: it willeth and willeth not; and never remaineth in the same state.</p>
+            <p>Come, Holy Spirit, and bring from heaven a ray of Thy light! Come, Thou father of the poor, Thou giver of gifts, Thou light of the world, the blessed Comforter, the dear guest of the soul, and its sweetest refreshment; Thou, our repose in labor, our coolness in heat, our comfort in affliction! O, most blessed Spirit, fill full the hearts of Thy faithful people! Without Thy influence there is nothing in man which is not weakness and guilt. O, cleanse that which is sordid; bedew that which is dried up; heal that which is wounded; bend that which is stubborn, cherish in Thy bosom that which is cold; guide that which is wandering; and grant unto Thy servants, putting their trust in Thee, the merit of Thy righteousness; grant them final salvation; grant them everlasting joy! O Lord, hear our prayer, and let our cry come unto Thee. Amen.</p>
+            <p>—Bernard of Clairvaux</p>
+            <title level="2" ID="delight-in-christ" type="main">Delight in Christ</title>
+            <p>Jesus, Thou joy of loving hearts!</p>
+            <p>Thou fount of life! Thou light of men!</p>
+            <p>From the best bliss that earth imparts,</p>
+            <p>We turn unfilled to Thee again.</p>
+            <p>Thy truth unchanged hath ever stood;</p>
+            <p>Thou savest those that on Thee call;</p>
+            <p>To them that seek Thee, Thou art good,</p>
+            <p>To them that find Thee—All in All!</p>
+            <p>We taste Thee, O Thou living bread,</p>
+            <p>And long to feast upon Thee still;</p>
+            <p>We drink of Thee, the fountain head,</p>
+            <p>And thirst our souls from Thee to fill.</p>
+            <p>Our restless spirits yearn for Thee,</p>
+            <p>Where’er our changeful lot is cast;</p>
+            <p>Glad, when Thy gracious smile we see,</p>
+            <p>Blest, when our faith can hold Thee fast.</p>
+            <p>O Jesus, ever with us stay!</p>
+            <p>Make all our moments calm and bright</p>
+            <p>Chase the dark night of sin away—</p>
+            <p>Shed o’er the world Thy holy light!</p>
+            <p>Amen.</p>
+            <p>—Ascribed to Bernard of Clairvaux</p>
+            <title level="2" ID="for-grace" type="main">For Grace</title>
+            <p>O Lord Jesus, grant us Thy grace and give unto us time for repentance. We would keep Thy commandments and do Thy bidding, choose the better part and no longer follow after evil; grant us Thy strength that this may so be, O loving Saviour for Thine own name’s sake. Amen.</p>
+            <p>—Dan Jeremy</p>
+        </div>
+        <div type="chapter" osisID="THIRTEENTH CENTURY PRAYERS">
+            <title level="1" ID="thirteenth-century-prayers" type="main">THIRTEENTH CENTURY PRAYERS</title>
+            <title level="2" ID="make-me-an-instrument-of-thy-peace" type="main">Make Me an Instrument of Thy Peace</title>
+            <p>Lord, make me an instrument of Thy peace;</p>
+            <p>Where hate rules, let me bring love,</p>
+            <p>Where malice, forgiveness,</p>
+            <p>Where disputes, reconciliation,</p>
+            <p>Where error, truth,</p>
+            <p>Where doubt, belief,</p>
+            <p>Where despair, hope,</p>
+            <p>Where darkness, Thy light,</p>
+            <p>Where sorrow, joy!</p>
+            <p>O Master, let me strive more to comfort others than to be comforted,</p>
+            <p>To understand others than to be understood,</p>
+            <p>To love others, more than to be loved!</p>
+            <p>For he who gives, receives,</p>
+            <p>He who forgets himself, finds,</p>
+            <p>He who forgives, receives forgiveness,</p>
+            <p>And dying, we rise again to eternal life. Amen.</p>
+            <p>—Francis of Assisi</p>
+            <title level="2" ID="the-daily-prayer-of-st.-francis" type="main">The Daily Prayer of St. Francis</title>
+            <p>My God, and my all, who art Thou, sweetest Lord, my God? And who am I, a poor worm, Thy servant? Holiest Lord, I would love Thee! Sweetest Lord, I would love Thee! Lord, my God, I give to Thee all my heart and body, and vehemently desire, if I might know how, to do more for Thy love. Amen.</p>
+            <p>—Francis of Assisi</p>
+            <title level="2" ID="praise" type="main">Praise</title>
+            <p>Now to that God, who has suffered so much for us, who at one giving has conferred on us so many good things, and will yet confer so many more, to this God let every creature who is in heaven or upon the earth, in the sea or in the depth of the abyss, render praise, glory, honour and blessing. He is himself our virtue and our strength. He alone is good, lofty, almighty, admirable, and glorious; the only holy, worthy of praise and blessed through ages of ages. Amen.</p>
+            <p>—Francis of Assisi</p>
+            <title level="2" ID="for-the-knowledge-of-gods-will" type="main">For the Knowledge of God’s Will</title>
+            <p>God, almighty, eternal, righteous, and merciful, give to us poor sinners to do for Thy sake all that we know of Thy will, and to will always what pleases Thee, so that inwardly purified, enlightened, and kindled by the fire of the Holy Spirit, we may follow in the footprints of Thy well-beloved Son, our Lord Jesus Christ. Amen.</p>
+            <p>—Francis of Assisi</p>
+            <title level="2" ID="thanksgiving" type="main">Thanksgiving</title>
+            <p>Almighty, most holy, most high and supreme God, holy and just Father, Lord, king of heaven and earth, for Thyself we give thanks to Thee because by Thy holy will, and by Thine only Son, Thou hast created all things spiritual and corporal in the Holy Ghost and didst place us made to Thine image and likeness in paradise, whence we fell by our own fault. And we give Thee thanks because, as by Thy Son Thou didst create us, so by the true and holy love with which Thou hast loved us, Thou didst cause Him, true God and true man, to be born…. And we give thanks to Thee because Thy Son Himself is to come again in the glory of His Majesty … to say to all who have known Thee and adored Thee, and served Thee in repentance: “Come, ye blessed of my Father, possess the Kingdom prepared for you from the beginning of the world.” And since all we wretches and sinners are not worthy to name Thee, we humbly beseech Thee, that our Lord Jesus Christ, Thy beloved Son, in whom Thou art well pleased, together with the Holy Ghost, the Paraclete, may give thanks to Thee as it is pleasing to Thee and Them, for all. Amen.</p>
+            <p>—Francis of Assisi</p>
+            <title level="2" ID="praise-and-guidance" type="main">Praise and Guidance</title>
+            <p>Almighty, most holy, most high, and supreme God, highest good, all good, wholly good, who alone art good, to Thee we render all praise, all glory, all thanks, all honor, all blessing, and we shall always refer all good to Thee.</p>
+            <p>Almighty, eternal, just, and merciful God, give to us wretches to do for Thee what we know Thee to will and to will always that which is pleasing to Thee; so that inwardly purified, inwardly illumined and kindled by the flame of the Holy Ghost, we may be able to follow in the footsteps of Thy Son, our Lord Jesus Christ, and by Thy grace alone come to Thee the Most High, who in perfect Trinity and simple unity livest and reignest and gloriest God Almighty for ever and ever. Amen.</p>
+            <p>—Francis of Assisi</p>
+            <title level="2" ID="for-the-brothers" type="main">For the Brothers</title>
+            <p>Lord Jesus, Thou didst choose Thine apostles to the number of twelve, and if one of them did betray Thee, the others, remaining united to Thee, preached Thy holy Gospel, filled with one and the same inspiration; and behold now, remembering the former days, Thou hast raised up the Religion of the Brothers in order to uphold faith, and that by them the mystery of Thy Gospel may be accomplished. Who will take their place if, instead of fulfilling their mission and being shining examples for all, they are seen to give themselves up to the works of darkness? Amen.</p>
+            <p>—Francis of Assisi</p>
+            <title level="2" ID="for-thy-love" type="main">For Thy Love</title>
+            <p>I beseech Thee, O Lord, that the fiery and sweet strength of Thy love may absorb my soul from all things that are under heaven, that I may die for love of Thy love as Thou didst deign to die for the love of my love. Amen.</p>
+            <p>—Francis of Assisi</p>
+            <title level="2" ID="thanksgiving-1" type="main">Thanksgiving</title>
+            <p>Thanks be to Thee, O Lord Jesus Christ, for all the benefits which Thou hast given us; for all the pains and insults which Thou hast borne for us. O most merciful Redeemer, friend and brother, may we know Thee more clearly, love Thee more dearly, and follow Thee more nearly; for Thine own sake. Amen.</p>
+            <p>—Richard of Chichester</p>
+            <title level="2" ID="daily-prayer" type="main">Daily Prayer</title>
+            <p>Grant me, I beseech Thee, O merciful God, prudently to study, rightly to understand, and perfectly to fulfill that which is pleasing to Thee, to the praise and glory of Thy name.</p>
+            <p>Thou, O Christ, art the King of glory; Thou art the everlasting Son of the Father. Amen.</p>
+            <p>—Thomas Aquinas</p>
+            <title level="2" ID="for-steadfastness" type="main">For Steadfastness</title>
+            <p>Grant me, I beseech Thee, almighty and most merciful God, fervently to desire, wisely to search out, and perfectly to fulfill, all that is well-pleasing unto Thee. Order Thou my worldly condition to the glory of Thy name; and, of all that Thou requirest me to do, grant me the knowledge, the desire, and the ability, that I may so fulfill it as I ought, and may my path to Thee, I pray, be safe, straightforward, and perfect to the end.</p>
+            <p>Give me, O Lord, a steadfast heart, which no unworthy affection may drag downwards; give me an unconquered heart, which no tribulation can wear out; give me an upright heart, which no unworthy purpose may tempt aside.</p>
+            <p>Bestow upon me also, O Lord my God, understanding to know Thee, diligence to seek Thee, wisdom to find Thee, and a faithfulness that may finally embrace Thee. Amen.</p>
+            <p>—Thomas Aquinas</p>
+            <title level="2" ID="for-love-of-jesus" type="main">For Love of Jesus</title>
+            <p>Ah! sweet Jesus, pierce the marrow of my soul with the healthful shafts of Thy love, that it may truly burn, and melt, and languish, with the only desire of Thee; that it may desire to be dissolved, and to be with Thee; let it hunger alone for the bread of life: let it thirst after Thee, the spring and fountain of eternal light, the stream of true pleasure; let it always desire Thee, seek Thee, and find Thee, and sweetly rest in Thee. Amen.</p>
+            <p>—Bonaventura</p>
+            <title level="2" ID="for-pardon-purity-and-grace" type="main">For Pardon, Purity, and Grace</title>
+            <p>O Holy God, in whom is all goodness, whose pity and mercy made Thee to descend from the high throne down into this world, the valley of woe and weeping, and here to take our nature, and in that nature to suffer pain and death, to bring our souls to Thy Kingdom. Merciful Lord, forgive us all our sins that we have done, thought, and said. O glorious Trinity, send us cleanness of heart and purity of soul; restore us with Thy Holy Spirit, and strengthen us with Thy might, that we may always withstand evil temptations. Comfort us with Thy Holy Ghost, and fulfill us with grace and charity, that we may henceforth live virtuously and love Thee with all our heart, with all our might, and with all our soul, so that we may never offend Thee, but ever follow Thy pleasure in will, word, thought, and deed. Now grant us this, good Lord, that art infinite, which eternally shall endure; through Jesus Christ Thy Son. Amen.</p>
+            <p>—Richard Rolle</p>
+        </div>
+        <div type="chapter" osisID="FOURTEENTH CENTURY PRAYERS">
+            <title level="1" ID="fourteenth-century-prayers" type="main">FOURTEENTH CENTURY PRAYERS</title>
+            <title level="2" ID="times-of-anxiety" type="main">Times of Anxiety</title>
+            <p>May Jesus Christ, the King of glory, help us to make the right use of all the suffering that God sends, and to offer to Him the true incense of our hearts; for His name’s sake. Amen.</p>
+            <p>—Johannes Tauler</p>
+            <title level="2" ID="for-love-of-god" type="main">For Love of God</title>
+            <p>Grant, most gracious God, that we may love and seek Thee always and everywhere, above all things and for Thy sake, in the life present, and may at length find Thee and for ever hold Thee fast in the life to come. Grant this for the sake of Jesus Christ our Lord. Amen.</p>
+            <p>—Thomas Bradwardine</p>
+            <title level="2" ID="a-memorial-of-the-resurrection" type="main">A Memorial of the Resurrection</title>
+            <p>O Lord Jesus Christ, by Thy glorious resurrection, in which Thou didst appear alive and immortal to Thy disciples and faithful followers, by Thy forty days’ abiding and sweet converse, in which by many infallible proofs, speaking of things pertaining to the Kingdom of God, Thou didst comfort them and assure them of Thine actual resurrection, removing all doubt from their hearts. We beseech Thee, O Lord, grant that we may be numbered among those who were fore-ordained by God to be witnesses of Thy resurrection, not only by word of mouth, but in reality of good works; for Thine honour and glory, who with the Father and the Holy Ghost livest and reignest ever one God, world without end. Amen.</p>
+            <p>—Ludolphus of Saxony</p>
+            <title level="2" ID="for-heavenly-mindedness-1" type="main">For Heavenly-Mindedness</title>
+            <p>O most blessed Lord, deign to help us, and of Thy great mercy abolish our sins; detach our minds from earthly things, and raise them to the love of heavenly riches. Most merciful God, who dost favour all true love, do Thou so aid and direct us that we may love Thee above all things, and recognizing Thine infinite benefits, may keep them in memory, and give Thee everlasting thanks for them. Finally, grant that ours may be the blessed life which shall enjoy Thy love for ever; through Jesus Christ our Lord. Amen.</p>
+            <p>—Raymond Jordanus</p>
+            <title level="2" ID="self-renunciation" type="main">Self-Renunciation</title>
+            <p>If a man may attain thereunto, to be unto God as his hand is unto man, let him be therewith content, and not seek further….</p>
+            <p>That we may thus deny ourselves, and forsake and renounce all things for God’s sake, and give up our own wills, and die unto ourselves, and live unto God alone and to his will, may He help us who gave up His will to His heavenly Father,—Jesus Christ our Lord, to whom be blessing for ever and ever. Amen.</p>
+            <p>—Theologia Germanica</p>
+            <title level="2" ID="the-god-we-love" type="main">The God We Love</title>
+            <p>Now, he who will hold to God, loves all things in the One which is One and All; and the One in All, because All is in the One; and he who loves somewhat, this or that, otherwise than in the One, and for the sake of the One, loves not God; for he loves somewhat which is not God, therefore he loves it more than God. But he who loves somewhat more than God, or equally with God, loves not God; for God must be and will be alone loved, and in truth nothing ought to be loved but God alone. And when the True Light and the True divine Love dwell in a man, he loves nothing else but God alone. For he loves God as the Good, and for the sake of the Good, and all Goods as One, and One as All. For, verily, All is One and One is All in God. Amen.</p>
+            <p>—Theologia Germanica</p>
+        </div>
+        <div type="chapter" osisID="FIFTEENTH CENTURY PRAYERS">
+            <title level="1" ID="fifteenth-century-prayers" type="main">FIFTEENTH CENTURY PRAYERS</title>
+            <title level="2" ID="the-quiet-hour" type="main">The Quiet Hour</title>
+            <p>Lord, I offer unto Thee all my sins and offences, which I have committed before Thee, from the day wherein I first could sin even to this hour; that Thou mayest consume and burn them, one and all, with the fire of Thy love, and do away all the stains of my sins, and cleanse my conscience from all offences, and restore to me Thy grace, fully forgiving me all, and admitting me mercifully to the kiss of peace. I offer up also unto Thee all that is good in me, though it be very small and imperfect, in order that Thou mayest amend and sanctify it, that Thou mayest make it grateful and acceptable unto Thee, and always be perfecting it more and more; and bring me also, slothful and unprofitable poor creature as I am, to a good and blessed end. Amen.</p>
+            <p>—Thomas à Kempis<note type="x-footnote"><p>Gerhard Groot was the founder of the “Brothers of the Common Life.” Some scholars claim The Imitation of Christ, usually attributed to Thomas à Kempis, was done by Groot and edited by Thomas à Kempis.</p></note></p>
+            <title level="2" ID="for-faithful-and-prepared-lives" type="main">For Faithful and Prepared Lives</title>
+            <p>Who can tell what a day may bring forth? Cause us, therefore, gracious God, to live every day as if it were to be our last, for that we know not but it may be such. Cause us to live so at present as we shall wish we had done when we come to die. O grant that we may not die with any guilt upon our consciences, or any known sin unrepented of, but that we may be found in Christ, who is our only Saviour and Redeemer. Amen.</p>
+            <p>—Thomas à Kempis</p>
+            <title level="2" ID="let-thy-will-be-mine" type="main">Let Thy Will Be Mine</title>
+            <p>O most merciful Lord, grant to me Thy grace, that it may be with me, and labor with me, and persevere with me even to the end. Grant that I may always desire and will that which is to Thee most acceptable, and most dear. Let Thy will be mine, and my will ever follow Thine, and agree perfectly with it. Grant to me, above all things that can be desired, to rest in Thee, and in Thee to have my heart at peace. Thou art the true peace of the heart, Thou its only rest; out of Thee all things are hard and restless. In this very peace, that is, in Thee, the one Chiefest Eternal Good, I will sleep and rest. Amen.</p>
+            <p>—Thomas à Kempis</p>
+            <title level="2" ID="praise-1" type="main">Praise</title>
+            <p>I will say unto my God, my Lord, and my King, “O how great is the abundance of Thy goodness, O Lord, which Thou hast laid up for them that fear Thee.” But what art Thou to those who love Thee? What to those who serve Thee with their whole heart? In this especially Thou hast showed me the sweetness of Thy love; that, when I was not, Thou madest me, when I went far astray from Thee, Thou broughtest me back again, that I might serve Thee, and hast commanded me to love Thee. I would I were able, at least for one day, to do Thee some worthy service. Truly, Thou art my Lord, and I Thy servant, who am bound to serve Thee with all my might; and this I wish to do, this I desire; and whatsoever is wanting unto me, do Thou, I beseech Thee, vouchsafe to supply. Amen.</p>
+            <p>—Thomas à Kempis</p>
+            <title level="2" ID="thy-will-be-done" type="main">Thy Will Be Done</title>
+            <p>O Lord, Thou knowest what is best for us, let this or that be done, as Thou shalt please. Give what Thou wilt, and how much Thou wilt, and when Thou wilt. Deal with me as Thou thinkest good, and as best pleaseth Thee. Set me where Thou wilt, and deal with me in all things just as Thou wilt. Behold, I am Thy servant, prepared for all things; for I desire not to live unto myself, but unto Thee; and Oh, that I could do it worthily and perfectly! Amen.</p>
+            <p>—Thomas à Kempis</p>
+            <title level="2" ID="my-hope-and-refuge" type="main">My Hope and Refuge</title>
+            <p>Ah, Lord God, Thou holy Lover of my soul, when Thou comest into my soul, all that is within me shall rejoice. Thou art my Glory and the exultation of my heart; Thou art my hope and refuge in the day of my trouble. Set me free from all evil passions, and heal my heart of all inordinate affections; that, being inwardly cured and thoroughly cleansed, I may be made fit to love, courageous to suffer, steady to persevere. Nothing is sweeter than love, nothing more courageous, nothing fuller nor better in heaven and earth; because love is born of God, and cannot rest but in God, above all created things. Let me love Thee more than myself, nor love myself but for Thee; and in Thee all that truly love Thee, as the law of love commandeth, shining out from Thyself. Amen.</p>
+            <p>—Thomas à Kempis</p>
+            <title level="2" ID="for-others" type="main">For Others</title>
+            <p>I offer up unto Thee my prayers and intercessions, for those especially who have in any matter hurt, grieved, or found fault with me, or who have done me any damage or displeasure.</p>
+            <p>For all those also whom, at any time, I may have vexed, troubled, burdened, and scandalized, by words or deeds, knowingly or in ignorance; that Thou wouldst grant us all equally pardon for our offences against each other.</p>
+            <p>Take away from our hearts, O Lord, all suspiciousness, indignation, wrath, and contention, and whatsoever may hurt charity, and lessen brotherly love.</p>
+            <p>Have mercy, O Lord, have mercy on those that crave Thy mercy, give grace unto them that stand in need thereof, and make us such as that we may be worthy to enjoy Thy grace, and go forward to life eternal. Amen.</p>
+            <p>—Thomas à Kempis</p>
+            <title level="2" ID="to-do-thy-will" type="main">To Do Thy Will</title>
+            <p>O Lord, my God, Thou art to me whatsoever is good. Remember me because I am nothing, I have nothing, and I can do nothing. Thou alone art good, just, and holy; Thou canst do all things, Thou accomplishest all things, Thou fillest all things. Remember Thy mercies, and fill my heart with Thy grace, Thou who wilt not that Thy works should be void and in vain. Turn not Thy face away from me; withdraw not Thy consolation, lest my soul become as a thirsty land to Thee. Teach me, O Lord, to do Thy will; teach me to live worthily and humbly in Thy sight. Amen.</p>
+            <p>—Thomas à Kempis</p>
+            <title level="2" ID="my-salvation-and-my-redemption" type="main">My Salvation and My Redemption</title>
+            <p>In confidence of Thy goodness and great mercy, O Lord, I draw near unto Thee, as a sick person to the healer, as one hungry and thirsty to the fountain of life, a creature to the creator, a desolate soul to my own tender comforter. Behold, in Thee is all whatsoever I can or ought to desire; Thou art my salvation and my redemption, my hope and my strength. Rejoice therefore this day the soul of Thy servant; for unto Thee, O Lord, have I lifted up my soul. Amen.</p>
+            <p>—Thomas à Kempis</p>
+            <title level="2" ID="for-the-holy-spirit-1" type="main">For the Holy Spirit</title>
+            <p>Strengthen me, O God, by the grace of Thy Holy Spirit. Grant me to be strengthened with might in the inner man, and to empty my heart of all useless care and anguish. O Lord, grant me heavenly wisdom, that I may learn above all things to seek and to find Thee, above all things to relish and to love Thee, and to think of all other things as being, what indeed they are, at the disposal of Thy wisdom. Amen.</p>
+            <p>—Thomas à Kempis</p>
+            <title level="2" ID="for-thee-o-lord" type="main">For Thee, O Lord</title>
+            <p>Lord, what is my confidence which I have in this life? Is it not Thou, O Lord, my God, whose mercies are without number? Where hath it ever been well with me without Thee, or where could it be ill with me, when Thou wert present? I rather choose to be a pilgrim on earth, than without Thee to possess heaven. Where Thou art, there is heaven; and where Thou art not, there is death and hell. There is none that can help me in my necessities, but only Thou, my God; Thou art my hope, Thou my confidence. Although Thou exposest me to divers temptations and adversities, yet Thou orderest all this to my advantage; in which trial of me Thou oughtest no less to be loved and praised, than if Thou didst fill me full of heavenly consolations. Amen.</p>
+            <p>—Thomas à Kempis</p>
+            <title level="2" ID="for-consolation" type="main">For Consolation</title>
+            <p>O Thou most sweet and loving Lord, Thou knowest mine infirmities, and the necessities which I endure; in how great evils and sins I am involved; how often I am weighed down, tempted, and disturbed by them. I entreat of Thee consolation and support. I speak to Thee who knowest all things, to whom all my inward thoughts are open, and who alone canst perfectly comfort and help me. Thou knowest what things I stand in most need of. Behold, I stand before Thee poor and naked, calling for grace, and imploring mercy. Refresh Thy hungry supplicant, kindle my coldness with the fire of Thy love, enlighten my blindness with the brightness of Thy presence. Suffer me not to go away from Thee hungry and dry, but deal mercifully with me, as often times Thou hast dealt wonderfully with Thy saints. Amen.</p>
+            <p>—Thomas à Kempis</p>
+            <title level="2" ID="for-trust-in-thee" type="main">For Trust in Thee</title>
+            <p>O Lord my God, be not Thou far from me; my God, have regard to help me; for there have risen up against me sundry thoughts, and great fears, afflicting my soul. How shall I pass through unhurt? How shall I break them to pieces? This is my hope, my one only consolation, to flee unto Thee in every tribulation, to trust in Thee, to call upon Thee from my inmost heart, and to wait patiently for Thy consolation. Amen.</p>
+            <p>—Thomas à Kempis</p>
+            <title level="2" ID="for-the-comforter" type="main">For the Comforter</title>
+            <p>Write Thy blessed name, O Lord, upon my heart, there to remain so indelibly engraven, that no prosperity, no adversity shall ever move me from Thy love. Be Thou to me a strong tower of defence, a comforter in tribulation, a deliverer in distress, a very present help in trouble, and a guide to heaven through the many temptations and dangers of this life. Amen.</p>
+            <p>—Thomas à Kempis</p>
+            <title level="2" ID="for-love-of-god-and-his-laws" type="main">For Love of God and His Laws</title>
+            <p>O most gracious God, from whom every good and perfect gift cometh, we beseech Thee to work in us both to will and to do according to Thy good pleasure. Enlighten our minds that we may know Thee, and let us not be unfruitful in that knowledge. Lord, work in our hearts a true faith, a purifying hope, and an unfeigned love towards Thee. Give us a full trust in Thee, zeal for Thee, reverence of all things that relate to Thee. Make us fearful to offend Thee, thankful for Thy mercies, humble under Thy corrections, devout in Thy service, and sorrowful for our sins. Grant that in all things we may behave ourselves so as befits a creature to his Creator, a servant to his Lord. Make us diligent in all our duties, watchful against all temptations, pure and temperate and moderate in Thy most lawful enjoyments, that they may never become a snare to us. Help us, O Lord, to act towards our neighbour that we may never transgress the royal law of Thine, of loving him as ourselves. Finally, we beseech Thee, O Lord, to sanctify us throughout, that our whole spirit, soul, and body, may be preserved blameless unto the coming of our Lord Jesus Christ; to whom with Thee and the Holy Ghost be all honour and glory for ever. Amen.</p>
+            <p>—Thomas à Kempis</p>
+            <title level="2" ID="for-consecration" type="main">For Consecration</title>
+            <p>Almighty God, who hast made all things for man, and man for Thy glory, sanctify our body and soul, our thoughts and our intentions, our words and actions, that whatsoever we shall think, or speak or do, may by us be designed to the glorification of Thy name, and by Thy blessing, it may be effectual and successful in the work of God, according as it can be capable. Lord, turn necessities into virtues, the works of Nature into the works of grace, by making them orderly, regular and temperate, subordinate and profitable to ends beyond their own proper efficacy; and let no pride or self-seeking, no impure motive, or unworthy purpose, no little ends, and low imagination stain our spirit, and unhallow any of our words and actions. But let our body be a servant to our spirit, and both body and spirit servants of Jesus Christ, that doing all things for Thy glory here, we may be partakers of Thy glory hereafter; through Jesus Christ. Amen.</p>
+            <p>—Thomas à Kempis</p>
+            <title level="2" ID="for-friends" type="main">For Friends</title>
+            <p>Almighty, everlasting God, have mercy on Thy servants our friends. Keep them continually under Thy protection, and direct them according to Thy gracious favour in the way of everlasting salvation; that they may desire such things as please Thee, and with all their strength perform the same. And forasmuch as they trust in Thy mercy, vouchsafe, O Lord, graciously to assist them with Thy heavenly help, that they may ever diligently serve Thee, and by no temptations be separated from Thee; through Jesus Christ our Lord. Amen.</p>
+            <p>—Thomas à Kempis</p>
+            <title level="2" ID="for-thy-spirit" type="main">For Thy Spirit</title>
+            <p>The prayers I make will then be sweet indeed,</p>
+            <p>If Thou the spirit give by which I pray;</p>
+            <p>My unassisted heart is barren clay,</p>
+            <p>That of its native self can nothing feed;</p>
+            <p>Of good and pious works Thou art the seed</p>
+            <p>That quickens only where Thou say’st it may.</p>
+            <p>Unless Thou show to us Thy own true way,</p>
+            <p>No man can find it! Father! Thou must lead;</p>
+            <p>Do Thou then breathe those thoughts into my mind</p>
+            <p>By which such virtue may in me be bred</p>
+            <p>That in Thy holy footsteps I may tread;</p>
+            <p>The fetters of my tongue do Thou unbind,</p>
+            <p>That I may have the power to sing to Thee,</p>
+            <p>And sound Thy praises everlastingly! Amen.</p>
+            <p>—Michelangelo</p>
+        </div>
+    </osisText>
+</osis>
